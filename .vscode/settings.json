@@ -1,0 +1,26 @@
+{
+    "markdown.marp.themes": [
+    "./themes/tsinghuappt.css",
+    "./themes/lamda.css",
+    "./themes/colors.css",
+    "./themes/github.css",
+    "./themes/haskell.css",
+    "./themes/iggg.css",
+    "./themes/olive.css",
+    "./themes/academic.css",
+    "./themes/beamer.css",
+    "./themes/border.css",
+    "./themes/gradient.css",
+    "./themes/A4.css",
+    "./themes/anhembi.css",
+    "./themes/uncover-custom.css",
+    "./themes/universiteit_leiden_4_3.css",
+    "./themes/universiteit_leiden_16_9.css",
+    "./themes/rose-pine.css",
+    "./themes/rose-pine-dawn.css",
+    "./themes/rose-pine-moon.css",
+    "https://example.com/foo/bar/custom-theme.css",
+    "./themes/UCASSimple.css",
+    "./themes/UCASSce.css"
+    ]
+}
